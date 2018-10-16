@@ -12,7 +12,13 @@ The ideal test suite is comprised of unit tests, some snapshot tests, and a few 
 
 ### Unit tests
 
-Functions return the correct result.
+Functions return the correct result.
+e.g. time format
+     event bind (scroll/click)
+      
+
+Trigger actions on the components and check that the components behave as expected.
+
 页面元素是否正确渲染
 
 ### Snapshot tests
