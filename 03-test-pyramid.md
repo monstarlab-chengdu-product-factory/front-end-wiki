@@ -13,39 +13,40 @@ The front-end test pyramid is a representation of how a front end test suite sho
 
 ## ■Unit tests
 
-### Tool
+#### 方法返回的值正确
+Functions return the correct result.
+
+> 工具 Tool
 
 Jest.js -- unit test case
 
-### 内容
+> e.g. 
 
-#### A.方法返回的值正确
-Functions return the correct result.
-
-e.g. 
-
-     日期格式化：Format time 
+    日期格式化：Format time 
      
-     全角字符转半角字符：Format DBC to SBC
+    全角字符转半角字符：Format DBC to SBC
       
-#### B.方法调用后，组件行为改变符合预期
+#### 方法调用后，组件行为改变符合预期
 
 Trigger actions on the components and check that the components behave as expected.
 
+> 工具 Tool
 
-e.g. 
+Jest.js -- unit test case
 
-     点赞的方法调用后，点赞的样式改变
+> e.g. 
+
+    点赞的方法调用后，点赞的样式改变
      
-     手机菜单按钮点击后，菜单出现
+    手机菜单按钮点击后，菜单出现
 
 ### Pass standard
 
-测试代码或手动测试；
+· 测试代码或手动测试；
 
-定义的全部方法返回值正确；
+· 定义的全部方法返回值正确；
 
-方法调用后，组件的样式改变符合预期。
+· 方法调用后，组件的样式改变符合预期。
 
 
 
@@ -70,14 +71,14 @@ Chrome / Safari / FF / IE11 / Android 5 / IOS 9
 
 #### 响应式页面测试
 
-> Tool
+> 工具 Tool
 
 浏览器的开发者工具 /
 BrowserStack https://www.browserstack.com/
 
-> Normal rule
+> 常规规范 Normal rule
  
-````1200/768/320````级别终端
+****1200 / 768 / 320****级别终端
 
 #### 像素对比
 
