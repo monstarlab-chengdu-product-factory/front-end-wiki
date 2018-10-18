@@ -7,6 +7,8 @@ The front-end test pyramid is a representation of how a front end test suite sho
 由三方面的测试内容构成：基本覆盖的````单元测试````、页面的````快照测试````和少量的````端对端````测试。The ideal test suite is comprised of ````unit tests````, some ````snapshot tests````, and a few ````end to end (e2e) tests````.
 
 
+![test pyramid](/assets/images/test-pyramid.png)
+
 ## ■Purpose
 运用快速失败的原则，降低开发阶段的方法逻辑、显示错误，提高前端单体测试交付质量，提高回归测试速度。
 
@@ -76,7 +78,7 @@ BrowserStack https://www.browserstack.com/
 
 > 常规规范 Normal rule
  
-****1200 / 768 / 320****级别终端
+````1200 / 768 / 320```` 级别终端
 
 #### 像素对比
 
