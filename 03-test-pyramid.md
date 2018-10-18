@@ -1,6 +1,6 @@
-# Test Pyramid 
+# 测试金字塔 Test Pyramid 
 
-## ■Definition
+## ■ 定义 Definition
 前端测试金字塔提供了一个前端测试内容的架构规范。
 The front-end test pyramid is a representation of how a front end test suite should be structured.
 
@@ -9,11 +9,11 @@ The front-end test pyramid is a representation of how a front end test suite sho
 
 ![test pyramid](/assets/images/test-pyramid.png)
 
-## ■Purpose
+## ■ 目标 Purpose
 运用快速失败的原则，降低开发阶段的方法逻辑、显示错误，提高前端单体测试交付质量，提高回归测试速度。
 
 
-## ■Unit tests
+## ■ 单元测试 Unit tests
 
 #### 方法返回的值正确
 Functions return the correct result.
@@ -51,7 +51,7 @@ Jest.js -- unit test case
 · 方法调用后，组件的样式改变符合预期(Should)。
 
 
-## ■Snapshot tests
+## ■ 快照测试 Snapshot tests
 
 
 #### 页面元素是否正确渲染
@@ -100,7 +100,7 @@ PhantomCSS https://github.com/HuddleEng/PhantomCSS (npm package)
 · UI设计图1px高度还原或者与画面定义书式样一致（should）。
 
 
-## ■End to end tests (e2e)
+## ■ 端对端测试 End to end tests (e2e)
 
 
 
