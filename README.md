@@ -1,13 +1,13 @@
 # MonstarLab Chengdu Front-end wiki
 
-#### Sass standard
+#### Sass Style Guide
 
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/01-sass.md
 
-#### Js standard
+#### JavaScript Style Guide
 
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/01-js.md
 
-#### Test standard
+#### Test Standard
 
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-pyramid.md
