@@ -4,7 +4,7 @@
 前端测试金字塔提供了一个前端测试内容的架构规范。
 The front-end test pyramid is a representation of how a front end test suite should be structured.
 
-它有三方面的测试内容构成：基本覆盖的单元测试、页面的快照测试和少量的端对端测试。The ideal test suite is comprised of unit tests, some snapshot tests, and a few end to end (e2e) tests.
+由三方面的测试内容构成：基本覆盖的````单元测试````、页面的````快照测试````和少量的````端对端````测试。The ideal test suite is comprised of ````unit tests````, some ````snapshot tests````, and a few ````end to end (e2e) tests````.
 
 
 ## ■Purpose
@@ -42,21 +42,19 @@ Jest.js -- unit test case
 
 ### Pass standard
 
-· 测试代码或手动测试；
+· 测试代码(Should)或手动测试(Must)；
 
-· 定义的全部方法返回值正确；
+· 定义的全部方法返回值正确(Should)；
 
-· 方法调用后，组件的样式改变符合预期。
-
+· 方法调用后，组件的样式改变符合预期(Should)。
 
 
 ## ■Snapshot tests
 
-### 内容
 
 #### 页面元素是否正确渲染
 
-对比设计图
+对比设计图或画面定义书
 
 
 #### 测试多浏览器
@@ -82,7 +80,7 @@ BrowserStack https://www.browserstack.com/
 
 #### 像素对比
 
-****Tool:**** 
+> 工具 Tool
 
 PerfectPixel (Chrome plugin)    
 
@@ -91,38 +89,45 @@ PhantomCSS https://github.com/HuddleEng/PhantomCSS (npm package)
 
 ### 合格标准 Pass standard
 
-页面内容符合设计图或者画面定义书(Must);
+· 页面内容符合设计图或者画面定义书(Must);
 
-响应式适配美观(should);
+· 响应式适配美观(should);
 
-要求适配的浏览器没有样式错乱(Must);
+· 要求适配的浏览器没有样式错乱(Must);
 
-UI设计图1px高度还原或者与画面定义书式样一致（should）。
+· UI设计图1px高度还原或者与画面定义书式样一致（should）。
 
 
 ## ■End to end tests (e2e)
 
-### 工具 Tool
-
-Jest.js -- unit test case
 
 
-交互事件是否响应正确
+#### 交互事件是否响应正确，ajax是否请求发出正常
 
+> 工具 Tool
 
-ajax是否正常
+Jest.js / NightWatch
 
-错误处理是否正确
+> e.g. 
+
+    表单必填项是否填写完整
+
+    表单input输入项目错误提示是否符合预期
+
+    点击表单提交按钮，请求是否正常携带参数，ajax返回是否显示正常
+    
+    未登录时，浏览器Url访问需要登录权限的页面是否跳转登录页面
+
 
 ### 合格标准 Pass standard
 
-画面定义书定义的功能正确实现；
+· 画面定义书定义的功能正确实现；
 
-稳定功能块的e2e测试代码覆盖(50%)或手动测试通过；
+· 稳定功能块的e2e测试代码覆盖(50%)或手动测试通过；
 
-正常流程的e2e测试代码覆盖(50%)或手动测试通过；
+· 正常流程的e2e测试代码覆盖(50%)或手动测试通过；
 
-异常处理的手动测试通过。
+· 异常处理的手动测试通过。
 
 
 ## References
