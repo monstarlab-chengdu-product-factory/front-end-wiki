@@ -1,4 +1,4 @@
-# MonstarLab Chengdu Front-end Test Pyramid 
+# Test Pyramid 
 
 ## ■Definition
 前端测试金字塔提供了一个前端测试内容的架构规范。
