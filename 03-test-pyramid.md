@@ -14,7 +14,6 @@ The ideal test suite is comprised of unit tests, some snapshot tests, and a few 
 
 Functions return the correct result.
 e.g. time format
-     event bind (scroll/click)
       
 
 Trigger actions on the components and check that the components behave as expected.
@@ -22,6 +21,7 @@ Trigger actions on the components and check that the components behave as expect
 页面元素是否正确渲染
 
 ### Snapshot tests
+
 像素对比
 https://github.com/HuddleEng/PhantomCSS
 
@@ -31,10 +31,12 @@ https://github.com/HuddleEng/PhantomCSS
 
 ### End to end tests (e2e)
 
+交互事件是否响应正确
 
 ajax是否正常
 
-交互事件是否响应正确
+错误处理是否正确
+
 
 ### References
 https://medium.freecodecamp.org/the-front-end-test-pyramid-rethink-your-testing-3b343c2bca51
