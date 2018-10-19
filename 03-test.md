@@ -1,22 +1,28 @@
-# 测试金字塔及合格条件 Test Pyramid &  Qualified Conditions
+# 测试范围及合格条件 Range & Qualified Conditions for Testing
 
-<a name="table-of-contents"></a>
-## 目录
-
-## ■ 定义 Definition
-前端测试金字塔提供了一个前端测试内容的架构规范。
-The front-end test pyramid is a representation of how a front end test suite should be structured.
+前端测试金字塔提供了一个前端测试内容的架构规范。The front-end test pyramid is a representation of how a front end test suite should be structured.
 
 由三方面的测试内容构成：基本覆盖的````单元测试````、页面的````快照测试````和少量的````端对端````测试。The ideal test suite is comprised of ````unit tests````, some ````snapshot tests````, and a few ````end to end (e2e) tests````.
 
+根据它定义了前端的````测试范围````及````合格条件````。
 
 ![test pyramid](/assets/images/test-pyramid.png)
 
-## ■ 目标 Purpose
-运用快速失败的原则，降低开发阶段的方法逻辑、显示错误，提高前端单体测试交付质量，提高回归测试速度。
+<a name="table-of-contents"></a>
+
+## 目录 Table of Contents
+
+  1. [测试范围](#definition)
+  1. [合格条件](#condition)
+
+<a name="definition"></a>
+## 测试范围 Test range
 
 
-## ■ 单元测试 Unit tests
+<a name="condition"></a>
+
+
+## 单元测试 Unit tests
 
 #### 方法返回的值正确
 Functions return the correct result.
@@ -54,7 +60,7 @@ Jest.js -- unit test case
 · 方法调用后，组件的样式改变符合预期(Should)。
 
 
-## ■ 快照测试 Snapshot tests
+##快照测试 Snapshot tests
 
 
 #### 页面元素是否正确渲染
@@ -133,6 +139,8 @@ Jest.js / NightWatch
 · 正常流程的e2e测试代码覆盖(50%)或手动测试通过；
 
 · 异常处理的手动测试通过。
+
+**[⬆ 返回目录](#table-of-contents)**
 
 
 ## References
