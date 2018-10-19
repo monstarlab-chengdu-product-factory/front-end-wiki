@@ -1,4 +1,6 @@
-# 测试金字塔 Test Pyramid 
+# 测试金字塔及合格条件 Test Pyramid &  Qualified Conditions
+
+
 
 ## ■ 定义 Definition
 前端测试金字塔提供了一个前端测试内容的架构规范。

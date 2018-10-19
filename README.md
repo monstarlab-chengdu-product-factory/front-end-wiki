@@ -6,7 +6,7 @@ https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master
 
 #### JavaScript Style Guide
 
-https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/01-js.md
+https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/02-js.md
 
 #### Test Standard
 
