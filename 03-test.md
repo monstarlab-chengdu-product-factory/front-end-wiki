@@ -17,12 +17,7 @@
 
 <a name="definition"></a>
 ## 测试范围 Test range
-
-
-<a name="condition"></a>
-
-
-## 单元测试 Unit tests
+### 单元测试 Unit tests
 
 #### 方法返回的值正确
 Functions return the correct result.
@@ -97,18 +92,6 @@ PerfectPixel (Chrome plugin)
 
 PhantomCSS https://github.com/HuddleEng/PhantomCSS (npm package)
 
-
-### 合格标准 Pass standard
-
-· 页面内容符合设计图或者画面定义书(Must);
-
-· 响应式适配美观(should);
-
-· 要求适配的浏览器没有样式错乱(Must);
-
-· UI设计图1px高度还原或者与画面定义书式样一致（should）。
-
-
 ## ■ 端对端测试 End to end tests (e2e)
 
 
@@ -128,19 +111,35 @@ Jest.js / NightWatch
     点击表单提交按钮，请求是否正常携带参数，ajax返回是否显示正常
     
     未登录时，浏览器Url访问需要登录权限的页面是否跳转登录页面
+    
+**[⬆ back to top](#table-of-contents)**
+
+<a name="condition"></a>
+## 合格条件 Conditions
+### Must
+· 页面内容符合设计图或者画面定义书
+
+· 要求适配的浏览器没有样式错乱
+
+· 画面定义书定义的功能正确实现
+
+· 稳定功能块的e2e测试代码覆盖(50%)或手动测试通过
+
+· 正常流程的e2e测试代码覆盖(50%)或手动测试通过
+
+### Should
+
+· 响应式适配美观
+
+· UI设计图1px高度还原
+
+· 异常处理的手动测试通过
 
 
-### 合格标准 Pass standard
+### May
 
-· 画面定义书定义的功能正确实现；
 
-· 稳定功能块的e2e测试代码覆盖(50%)或手动测试通过；
-
-· 正常流程的e2e测试代码覆盖(50%)或手动测试通过；
-
-· 异常处理的手动测试通过。
-
-**[⬆ 返回目录](#table-of-contents)**
+**[⬆ back to top](#table-of-contents)**
 
 
 ## References
