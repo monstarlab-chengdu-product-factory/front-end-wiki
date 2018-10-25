@@ -1,6 +1,8 @@
-# 测试范围及合格条件 Range & Qualified Conditions for Testing
+# 测试金字塔 Test Pyramid 
 
-前端测试金字塔提供了一个前端测试内容的架构规范。The front-end test pyramid is a representation of how a front end test suite should be structured.
+## ■ 定义 Definition
+前端测试金字塔提供了一个前端测试内容的架构规范。
+The front-end test pyramid is a representation of how a front end test suite should be structured.
 
 由三方面的测试内容构成：基本覆盖的````单元测试````、页面的````快照测试````和少量的````端对端````测试。The ideal test suite is comprised of ````unit tests````, some ````snapshot tests````, and a few ````end to end (e2e) tests````.
 
@@ -17,7 +19,12 @@
 
 <a name="definition"></a>
 ## 测试范围 Test range
-### 单元测试 Unit tests
+
+
+<a name="condition"></a>
+
+
+## 单元测试 Unit tests
 
 #### 方法返回的值正确
 Functions return the correct result.
@@ -55,7 +62,7 @@ Jest.js -- unit test case
 · 方法调用后，组件的样式改变符合预期(Should)。
 
 
-##快照测试 Snapshot tests
+## 快照测试 Snapshot tests
 
 
 #### 页面元素是否正确渲染
@@ -92,7 +99,19 @@ PerfectPixel (Chrome plugin)
 
 PhantomCSS https://github.com/HuddleEng/PhantomCSS (npm package)
 
-## ■ 端对端测试 End to end tests (e2e)
+
+### 合格标准 Pass standard
+
+· 页面内容符合设计图或者画面定义书(Must);
+
+· 响应式适配美观(should);
+
+· 要求适配的浏览器没有样式错乱(Must);
+
+· UI设计图1px高度还原或者与画面定义书式样一致（should）。
+
+
+## 端对端测试 End to end tests (e2e)
 
 
 
@@ -111,35 +130,19 @@ Jest.js / NightWatch
     点击表单提交按钮，请求是否正常携带参数，ajax返回是否显示正常
     
     未登录时，浏览器Url访问需要登录权限的页面是否跳转登录页面
-    
-**[⬆ back to top](#table-of-contents)**
-
-<a name="condition"></a>
-## 合格条件 Conditions
-### Must
-· 页面内容符合设计图或者画面定义书
-
-· 要求适配的浏览器没有样式错乱
-
-· 画面定义书定义的功能正确实现
-
-· 稳定功能块的e2e测试代码覆盖(50%)或手动测试通过
-
-· 正常流程的e2e测试代码覆盖(50%)或手动测试通过
-
-### Should
-
-· 响应式适配美观
-
-· UI设计图1px高度还原
-
-· 异常处理的手动测试通过
 
 
-### May
+### 合格标准 Pass standard
 
+· 画面定义书定义的功能正确实现；
 
-**[⬆ back to top](#table-of-contents)**
+· 稳定功能块的e2e测试代码覆盖(50%)或手动测试通过；
+
+· 正常流程的e2e测试代码覆盖(50%)或手动测试通过；
+
+· 异常处理的手动测试通过。
+
+**[⬆ 返回目录](#table-of-contents)**
 
 
 ## References
