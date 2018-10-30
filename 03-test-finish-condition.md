@@ -40,7 +40,7 @@
 
 
 #### ■form类式样符合设计或统一
-*管理画面统一的规范参考：https://ant.design/
+    管理画面统一的规范参考：https://ant.design/
 
 + button
   + height
@@ -60,7 +60,7 @@
 
 
 #### ■Feedback类出现条件和式样统一
-*各个类对应的表现参考：https://ant.design/
+    各个类对应的表现参考：https://ant.design/
 + alert
 + modal
 + message
@@ -87,7 +87,7 @@
   
 
 #### ■animation符合设计或统一
-*效果 速度 
+    效果 速度
 + hover
 + active
 + scroll
