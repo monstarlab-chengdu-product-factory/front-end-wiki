@@ -21,7 +21,9 @@ form:
 
 <a name="effect"></a>
 ##效果完整
-+ hover：button 
++ hover
+    + button 
+    + a href
 + active：
 + disable：
 + animation：
@@ -46,15 +48,26 @@ form:
 ##优化
 
 + 静态引用图片压缩：
-  https://imagecompressor.com/zh/
+  +  https://imagecompressor.com/zh/
 + loading
-+ lazy load
+  + 骨架loading
+    + https://github.com/danilowoz/react-content-loader
+    
+    
++ lazy load 
+  + 延迟加载
+    
+      
+  + 模糊加载
+    + https://docs.aws.amazon.com/zh_cn/lambda/latest/dg/with-s3-example.html
+    + https://jmperezperez.com/medium-image-progressive-loading-placeholder/
 
 **[⬆ Back to Top](#table-of-contents)**
 
 <a name="types"></a>
 ##测试代码
 
-使用测试框架完成测试代码
+参照测试金字塔的建议架构完成测试代码
+https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-pyramid.md
 
 **[⬆ Back to Top](#table-of-contents)**
