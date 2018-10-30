@@ -8,18 +8,23 @@
   1. [遵守普遍规范 must](#common)
   1. [优化 should](#optimization)
   1. [测试代码 may](#autoTest)
-  1. [sense](#sense)
+  1. [意识](#conscious)
 
 
 
 <a name="style"></a>
 ## 式样准确
- 
-menu：
-font:
-background:
-color:
-form:
+
++ font
+
++ background
+
++ color
+
++ form
+
++ menu
+
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -57,30 +62,36 @@ form:
 <a name="optimization"></a>
 ## 优化
 
-+ 静态引用图片压缩：
+#### ■静态引用图片压缩
   +  https://imagecompressor.com/zh/
-+ loading
+ 
+#### ■loading增加
   + 骨架loading
     + https://github.com/danilowoz/react-content-loader
     
-    
-+ lazy load 
-  + 延迟加载
-    
-      
-  + 模糊加载
-    + AWS Lambda/aliyun块存储
-    + https://docs.aws.amazon.com/zh_cn/lambda/latest/dg/with-s3-example.html
+#### ■lazy load 
+  + 图片延迟加载
+  + 图片糊加载
     + https://jmperezperez.com/medium-image-progressive-loading-placeholder/
+    + https://docs.aws.amazon.com/zh_cn/lambda/latest/dg/with-s3-example.html
+    
 
 **[⬆Top](#table-of-contents)**
 
 
 
 <a name="autoTest"></a>
-## 测试代码
-
-参照测试金字塔的建议架构完成测试代码
+## 单体自动化测试代码覆盖
+#### ■参照
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-pyramid.md
+
+<a name="conscious"></a>
+## 意识
+#### ■考虑文字实际内容和设计图内容显示样式的差异
+
++ 换行
++ 掉1个字
++ ellipsis
++ 语言
 
 **[⬆Top](#table-of-contents)**
