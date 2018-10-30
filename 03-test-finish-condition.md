@@ -51,13 +51,13 @@
 + input/textarea/checkbox/radio
   + height
   + radius
-  + focus/blur/error/disable式样完整且统一
   
 + select
   + open/close样式
   + 点击外部收起
 
 + 报错信息位置，样式符合设计或统一
+
 
 #### ■Feedback类出现条件和式样统一
 *各个类对应的表现参考：https://ant.design/
@@ -80,13 +80,16 @@
     
 #### ■active式样和动画符合设计或统一
 
-#### ■disable式样符合设计或统一
+#### ■form类式样符合设计或统一
+  + focus/blur/error/disable式样完整且统一
+  
 
 #### ■animation符合设计或统一
-+ hover动画 速度 统一
-+ active 动画 速度 统一
-+ scroll 动画 
-
+*效果 速度 
++ hover
++ active
++ scroll
++ menu
 
 
 **[⬆Top](#table-of-contents)**
