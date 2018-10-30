@@ -8,11 +8,12 @@
   1. [遵守普遍规范 must](#function)
   1. [优化 should](#destructuring)
   1. [测试代码 may](#autoTest)
-  1. [sence]
+  1. [sense](#sense)
+
+
 
 <a name="style"></a>
-
-##式样准确
+## 式样准确
  
 menu：
 font:
@@ -22,8 +23,10 @@ form:
 
 **[⬆ Back to Top](#table-of-contents)**
 
+
+
 <a name="effect"></a>
-##效果完整
+## 效果完整
 + hover
     + button 
     + a href
@@ -33,13 +36,15 @@ form:
 
 **[⬆ Back to Top](#table-of-contents)**
 
+
+
 <a name="function"></a>
-##定义的方法工作正常
+## 定义的方法工作正常
 
 **[⬆ Back to Top](#table-of-contents)**
 
 <a name="types"></a>
-##遵守普遍规范
+## 遵守普遍规范
 
 + 语言设定：日本项目/中国项目/多语言项目
 + LOGO加链接
@@ -47,8 +52,10 @@ form:
 
 **[⬆ Back to Top](#table-of-contents)**
 
+
+
 <a name="types"></a>
-##优化
+## 优化
 
 + 静态引用图片压缩：
   +  https://imagecompressor.com/zh/
@@ -68,8 +75,10 @@ form:
 
 **[⬆ Back to Top](#table-of-contents)**
 
-<a name="types"></a>
-##测试代码
+
+
+<a name="autoTest"></a>
+## 测试代码
 
 参照测试金字塔的建议架构完成测试代码
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-pyramid.md
