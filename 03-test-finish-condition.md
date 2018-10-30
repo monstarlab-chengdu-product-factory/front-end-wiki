@@ -13,7 +13,6 @@
 
 <a name="style"></a>
 ##式样准确
-
 menu：
 font:
 background:
@@ -39,16 +38,15 @@ LOGO加链接：
 
 <a name="types"></a>
 ##保持以下项目一致
-
-语言设定：
+语言设定：日本项目/中国项目/多语言项目
 
 **[⬆ Back to Top](#table-of-contents)**
 
 <a name="types"></a>
 ##完成以下项目优化
 
-静态引用图片压缩：https://imagecompressor.com/zh/
-loading效果：
+  1.静态引用图片压缩：https://imagecompressor.com/zh/
+  1.loading效果：
 
 **[⬆ Back to Top](#table-of-contents)**
 
