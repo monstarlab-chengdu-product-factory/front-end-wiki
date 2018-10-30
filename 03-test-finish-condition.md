@@ -1,4 +1,4 @@
-# 单体测试完了条件
+# 单体测试完成的条件
 <a name="table-of-contents"></a>
 ## 目录
 
@@ -8,9 +8,12 @@
   1. [遵守普遍规范 must](#function)
   1. [优化 should](#destructuring)
   1. [测试代码 may](#autoTest)
+  1. [sence]
 
 <a name="style"></a>
+
 ##式样准确
+ 
 menu：
 font:
 background:
@@ -59,6 +62,7 @@ form:
     
       
   + 模糊加载
+    + AWS Lambda/aliyun块存储
     + https://docs.aws.amazon.com/zh_cn/lambda/latest/dg/with-s3-example.html
     + https://jmperezperez.com/medium-image-progressive-loading-placeholder/
 
