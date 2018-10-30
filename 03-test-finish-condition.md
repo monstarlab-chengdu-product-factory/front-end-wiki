@@ -39,7 +39,7 @@
 #### ■border样式符合设计或统一，同类对象border式样统一
 
 
-#### ■form式样符合设计或统一
+#### ■form类式样符合设计或统一
 *管理画面统一的规范参考：https://ant.design/
 
 + button
@@ -64,9 +64,8 @@
 + alert
 + modal
 + message
-+ Notification
 + Progress
-
++ notification
 
 **[⬆ Back to Top](#table-of-contents)**
 
