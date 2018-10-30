@@ -8,6 +8,5 @@ https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master
 
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/02-js.md
 
-#### Test Standard
-
+#### Auto Test Architecture
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-pyramid.md
