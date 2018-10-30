@@ -16,10 +16,13 @@ disable效果：
 ##定义的方法工作正常 must
 
 ##保持以下项目一致 should
+语言设定：
+
+
 
 ##完成以下项目优化 should
 静态引用图片压缩：https://imagecompressor.com/zh/
-
+loading效果：
 
 
 ##测试代码 may
