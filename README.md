@@ -7,7 +7,7 @@ https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/02-js.md
 
 #### Test Completion Conditions
-https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test.md
+https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-finish-condition.md
 
 #### Auto Test Recommended Architecture
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-pyramid.md
