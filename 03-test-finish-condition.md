@@ -39,12 +39,10 @@
 + Chrome 
 + Safari
 + IE 11 / edge  （window10）
-+ Android 5.0
-  + Google Nexus 
++ Android 4.4.2
   + Hongmi Android 7
   + Honor 6A Android 7
-  
-  
+  + Sony 4.4.2  
 + IOS 10 
   + IPhone SE
   + IPhone 6/7/8
