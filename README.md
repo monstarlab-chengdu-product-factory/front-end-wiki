@@ -16,7 +16,7 @@ https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/04-design.md
 
 #### ■API  Check List
-https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/05-apimd
+https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/05-api.md
 
 #### ■Code Review Points
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/06-code-review.md
