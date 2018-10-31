@@ -6,7 +6,7 @@
 
   1. [优化 should](#optimization)
   1. [测试代码 may](#autoTest)
-  1. [意识](#conscious)
+  1. [意识 may](#conscious)
 
 
 <a name="optimization"></a>
@@ -36,7 +36,7 @@
 **[⬆Top](#table-of-contents)**
 
 <a name="autoTest"></a>
-## 单体自动化测试代码覆盖
+## 测试代码
 #### ■参照
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-pyramid.md
 
