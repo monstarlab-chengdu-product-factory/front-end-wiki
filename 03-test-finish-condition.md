@@ -1,6 +1,9 @@
 # 单体测试完成的条件
 
 
+- [ ] Mercury
+- [x] Venus
+
 <a name="table-of-contents"></a>
 ## 目录
 
