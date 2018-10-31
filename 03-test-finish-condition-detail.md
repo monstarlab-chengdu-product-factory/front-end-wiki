@@ -14,8 +14,26 @@
 + 1px
 
 #### ■页面各section比例符合设计期待
+
+#### ■多浏览器测试显示正常
++ Chrome 
++ Safari
++ IE 11 / edge  （window10）
++ Android 5.0
+  + xiaomi
+  + 华为
+  + Google Nexus 
++ IOS 10 
+  + IPhone SE
+  + IPhone 6/7/8
+  + IPhone 6/7/8 plus
+  + IPhone X
+  + IPad
+  
  
 #### ■响应式适配符合设计期待或合理
++ 浏览拖拉边框改变window宽高显示正常
++ 手机旋转屏幕显示正常
 
 #### ■background-image/image正确使用 更换图片后和设计效果表现一致
 
