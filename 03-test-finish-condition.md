@@ -40,9 +40,11 @@
 + Safari
 + IE 11 / edge  （window10）
 + Android 5.0
-  + xiaomi
-  + 华为
   + Google Nexus 
+  + Hongmi Android 7
+  + Honor 6A Android 7
+  
+  
 + IOS 10 
   + IPhone SE
   + IPhone 6/7/8
