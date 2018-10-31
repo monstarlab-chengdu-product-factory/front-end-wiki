@@ -9,9 +9,6 @@ https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master
 #### ■Test Check List
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-finish-condition.md
 
-#### ■Auto Test Recommended Architecture
-https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-pyramid.md
-
 #### ■Design Check List
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/04-design-review.md
 
@@ -23,3 +20,6 @@ https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master
 
 #### ■Optimization Recommend
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/07-optimization.md
+
+#### ■Auto Test Recommended Architecture
+https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-pyramid.md
