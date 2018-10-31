@@ -20,3 +20,6 @@ https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master
 
 #### Code review Points
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/06-code-review.md
+
+#### Optimization recommend
+https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/07-optimization.md
