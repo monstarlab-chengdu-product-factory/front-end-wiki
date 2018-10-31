@@ -1,22 +1,40 @@
 # 单体测试完成的条件
 
-- [ ] 高准确度还原设计图
-- [ ] 页面内容显示正常
-  - [ ] font
-  - [ ] color
-  - [ ] input
-  - [ ] button
-- [ ] 页面事件响应，正常
-- [ ] 页面错误处理，正常
-- [ ] 动画，表现正常
-- [ ] 响应式适配，显示正常
-- [ ] 多浏览器测试，显示正常(详见browsers list)
-- [ ] 旋转手机屏幕,显示正常
+## CHeck List
 
+#### ■式样准确
+- [ ] 高精度还原设计图 
+- [ ] 页面各section比例符合设计期待
+- [ ] Background-image/Image 正确使用 更换图片后和设计效果表现一致
+- [ ] Font 符合设计，同等级font表现一致
+- [ ] Color 使用符合设计，同类对象color统一
+- [ ] Border 样式符合设计或统一，同类对象border式样统一
+- [ ] Form类 式样符合设计或统一
+- [ ] Feedback类 出现条件和式样统一
+- [x] 多浏览器测试，显示正常(详见browsers list)
+- [x] 响应式适配符合设计期待或合理
+  - [x] 浏览拖拉边框改变window宽高显示正常
+  - [x] 手机旋转屏幕显示正常
+
+#### ■效果完整
+- [ ] Hover 式样和动画符合设计或统一
+- [ ] Active 式样和动画符合设计或统一
+- [ ] Form类 focus/blur/error/disable式样完整且统一
+- [ ] Animation 符合设计或统一
+
+#### ■定义的方法工作正常
+- [ ] 定义的函数输入输出符合预期
+- [ ] 绑定事件正确
+- [ ] 方法调用正确
+
+#### ■遵守普遍规范
+- [ ] 语言设定正确
+- [ ] LOGO 加链接 加hover
+- [ ] Icon给大padding，确保点击范围
 
 ## References
 
-#### ■browsers list
+#### ■Browsers list
 + Chrome 
 + Safari
 + IE 11 / edge  （window10）

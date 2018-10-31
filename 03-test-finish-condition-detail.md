@@ -1,4 +1,5 @@
-# 单体测试完成的条件
+# 单体测试完成条件--详细
+
 <a name="table-of-contents"></a>
 ## 目录
 
@@ -30,29 +31,28 @@
   + IPhone X
   + IPad
   
- 
 #### ■响应式适配符合设计期待或合理
 + 浏览拖拉边框改变window宽高显示正常
 + 手机旋转屏幕显示正常
 
-#### ■background-image/image正确使用 更换图片后和设计效果表现一致
+#### ■Background-image/Image正确使用 更换图片后和设计效果表现一致
 
-#### ■font符合设计，同等级font表现一致
+#### ■Font符合设计，同等级font表现一致
 + family
 + size 
 + weight
 + color
 + align
 
-#### ■color使用符合设计，同类对象color统一
+#### ■Color使用符合设计，同类对象color统一
 + font color
 + background color
 + wrapper-cover color
 
-#### ■border样式符合设计或统一，同类对象border式样统一
+#### ■Border样式符合设计或统一，同类对象border式样统一
 
 
-#### ■form类式样符合设计或统一
+#### ■Form类式样符合设计或统一
     管理画面统一的规范参考：https://ant.design/
 
 + button
@@ -87,25 +87,23 @@
 <a name="effect"></a>
 ## 效果完整
 
-#### ■hove式样和动画符合设计或统一
+#### ■Hover式样和动画符合设计或统一
 + button 
 + a href
     
-#### ■active式样和动画符合设计或统一
+#### ■Active式样和动画符合设计或统一
 + header menu item
 + breadcrumb 
 
-#### ■form类式样符合设计或统一
-  + focus/blur/error/disable式样完整且统一
+#### ■Form类 focus/blur/error/disable式样完整且统一
   
 
-#### ■animation符合设计或统一
+#### ■Animation符合设计或统一
     效果 速度
 + hover
 + active
 + scroll
 + menu
-
 
 **[⬆Top](#table-of-contents)**
 
@@ -142,7 +140,7 @@
 
 #### ■LOGO  加链接 加hover
 
-#### ■icon给大padding，确保点击范围
+#### ■Icon给大padding，确保点击范围
   + 注意SP难点中的问题
 
 
