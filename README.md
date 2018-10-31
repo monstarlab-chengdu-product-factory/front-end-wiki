@@ -1,5 +1,8 @@
 # MonstarLab Chengdu Front-end wiki
 
+#### ■Work Flow
+https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/00-work-flow.md
+
 #### ■Sass Style Guide
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/01-sass.md
 
@@ -10,10 +13,10 @@ https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-finish-condition.md
 
 #### ■Design Check List
-https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/04-design-review.md
+https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/04-design.md
 
 #### ■API  Check List
-https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/05-api-review.md
+https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/05-apimd
 
 #### ■Code Review Points
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/06-code-review.md
