@@ -15,11 +15,11 @@ https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master
 #### ■API  Check List
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/05-api-review.md
 
-#### ■Code review Points
+#### ■Code Review Points
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/06-code-review.md
 
 #### ■Optimization Recommend
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/07-optimization.md
 
 #### ■Auto Test Recommended Architecture
-https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-pyramid.md
+https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test.md
