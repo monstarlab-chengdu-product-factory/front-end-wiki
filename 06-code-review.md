@@ -28,6 +28,8 @@ lay out　> Htmlではない
 例、htmlの粒度を揃えてください。ちなみ、自分はどちらもclass名が良くないと思います
 
 ・tg.pug
+
+
 ```.tg
   .banner
   .scroll
