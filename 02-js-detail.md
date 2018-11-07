@@ -1499,26 +1499,20 @@
 <a name="semicolons"></a>
 ## 分号
 
-  - [20.1](#20.1) <a name='20.1'></a> **使用分号**
+  - [20.1](#20.1) <a name='20.1'></a> **不使用分号**
 
     ```javascript
     // bad
     (function() {
-      const name = 'Skywalker'
-      return name
-    })()
+      const name = 'Skywalker';
+      return name;
+    })();
 
     // good
     (() => {
-      const name = 'Skywalker';
-      return name;
-    })();
-
-    // good (防止函数在两个 IIFE 合并时被当成一个参数)
-    ;(() => {
-      const name = 'Skywalker';
-      return name;
-    })();
+      const name = 'Skywalker'
+      return name
+    })()
     ```
 
     [Read more](http://stackoverflow.com/a/7365214/1712802).
