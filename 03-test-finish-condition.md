@@ -1,5 +1,26 @@
 # 单体测试完成的条件
 
+## References
+
+#### ■Browsers list
+- [ ] Chrome 
+- [ ] Safari
+- [ ] IE 11 / edge  （window10）
+- [ ] Android 4.4.2
+  - [ ] Hongmi Android 7
+  - [ ] Honor 6A Android 7
+  - [ ] Sony 4.4.2  
+- [ ] IOS 10 + 
+  - [ ] IPhone SE
+  - [ ] IPhone 6/7/8
+  - [ ] IPhone 6/7/8 plus
+  - [ ] IPhone X
+  - [ ] IPad
+
+#### ■详细
+https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-finish-condition-detail.md
+
+
 ## Check List
 
 #### ■式样准确
@@ -32,23 +53,3 @@
 - [ ] 语言设定正确
 - [ ] LOGO 加链接 加hover
 - [ ] Icon给大padding，确保点击范围
-
-## References
-
-#### ■Browsers list
-- [ ] Chrome 
-- [ ] Safari
-- [ ] IE 11 / edge  （window10）
-- [ ] Android 4.4.2
-  - [ ] Hongmi Android 7
-  - [ ] Honor 6A Android 7
-  - [ ] Sony 4.4.2  
-- [ ] IOS 10 + 
-  - [ ] IPhone SE
-  - [ ] IPhone 6/7/8
-  - [ ] IPhone 6/7/8 plus
-  - [ ] IPhone X
-  - [ ] IPad
-
-#### ■详细
-https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-finish-condition-detail.md
