@@ -4,9 +4,34 @@
 
 - [ ] 使用RESTful API设计规范
 
-- [ ] 接入swagger
+- [ ] 接入swagger API 自动文档
+
+#### ■协议
 
 - [ ] 使用HTTPS，沒有使用请提案
+
+#### ■域名
+- [ ] API的URL
+  - 使用专用的子域名
+
+        https://api.example.com
+      
+  - 通过 URL 标记加以区别
+ 
+        https://www.example.com/api/
+
+#### ■版本控制
+- [ ] 在 URL 中使用整型版本号
+  
+      https://api.example.com/v{n}/
+#### ■协议
+
+#### ■协议
+#### ■协议
+#### ■协议
+
+
+
 
 - [ ] 核心业务逻辑的判断应该由API决策后返回结果,前端不能处理
 
@@ -18,16 +43,8 @@
 
 #### ■About API URL
 
-- [ ] 如果是独立的API服务，使用专用的子域名
 
-      https://api.example.com
-      
 
-- [ ] 如果是与其他 Web 服务混合在一起的，通过 URL 标记加以区别
- 
-      https://www.example.com/api/
-
-- [ ] 应将API的版本号放入URL,或将版本号放在HTTP头信息中，Github采用的后者
 
 
 
