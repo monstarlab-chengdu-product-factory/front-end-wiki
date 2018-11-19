@@ -63,7 +63,7 @@
   
   - [ ] OAuth方面: cookie/request header
   
-- [x] response: 格式正确
+- [x] Response: 格式正确
 
        {
           status: 0, // 表示接口的执行的状态，“status=0”表示成功，“status<0”表示异常
@@ -72,13 +72,13 @@
           msg: ʼʼ // 接口调用结果的提示信息，特别是当 status 不等于 0 时，需要描述异常的现象或者原因
        }
 
-- [x] response: data包含字段满足前端展示需要
+- [x] Response: data包含字段满足前端展示需要
 
-- [x] response: data没有无用字段
+- [x] Response: data没有无用字段
 
-- [x] response: 字段没有拼写错误，统一为驼峰或者下划线，下划线的前端应使用humps转换为camelizeKeys使用
+- [x] Response: 字段没有拼写错误，统一为驼峰或者下划线，下划线的前端应使用humps转换为camelizeKeys使用
 
-- [ ] response: 返回正确使用状态码
+- [ ] Response: 返回正确使用状态码
 
       200 OK - [GET]
       201 CREATED - [POST/PUT/PATCH]: 用户新建或修改数据成功
