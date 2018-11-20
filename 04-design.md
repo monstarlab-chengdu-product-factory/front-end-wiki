@@ -34,3 +34,12 @@
 - [ ] 间距应该尽量跟全局边距统一(屏幕左右边距)，边距一定偶数
 - [ ] 内容边距一定要分清属于谁的，这有助于前端编写页面的布局思路
 - [ ] 以上主要是设计规范，在前端主要是在前期跟设计师沟通和后期在review代码时候通过这个规范来检查代码
+
+- [ ] 所有的icon提供了SVG切图
+
+
+## References
+
+MonstarLab Chengdu UI Design Standard
+
+https://ant.design/docs/spec/colors-cn

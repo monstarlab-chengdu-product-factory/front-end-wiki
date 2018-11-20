@@ -111,7 +111,7 @@
 
 ## References
 
-成都公司内部API规范
+MonstarLab Chengdu API Standard
 
 http://www.ruanyifeng.com/blog/2014/05/restful_api.html
 
