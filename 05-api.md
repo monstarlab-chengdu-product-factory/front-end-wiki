@@ -1,7 +1,6 @@
 # API Check List
 
 - [ ] Basic: 使用RESTful API设计规范
-
 - [ ] Basic: 接入swagger API 自动文档
 
 - [ ] 协议: 使用HTTPS，沒有使用请提案
@@ -73,11 +72,8 @@
        }
 
 - [x] Response: data包含字段满足前端展示需要
-
 - [x] Response: data没有无用字段
-
 - [x] Response: 字段没有拼写错误，统一为驼峰或者下划线，下划线的前端应使用humps转换为camelizeKeys使用
-
 - [ ] Response: 返回正确使用状态码
 
       200 OK - [GET]
