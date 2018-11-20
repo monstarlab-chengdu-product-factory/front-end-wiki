@@ -3,9 +3,6 @@
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/issues/1
 
 #### ■有趣的几点
-https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/issues/1
-
-有趣的几点:
 
 - [ ] 开始编码之前的准备工作和编码同等重要
 
