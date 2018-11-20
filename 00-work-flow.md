@@ -3,6 +3,9 @@
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/issues/1
 
 #### ■有趣的几点
+https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/issues/1
+
+有趣的几点:
 
 - [ ] 开始编码之前的准备工作和编码同等重要
 
@@ -15,3 +18,5 @@ https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/issues/1
 - [ ] 开始编码时严格的代码review
 
 - [ ] 优先调查技术问题
+
+- [ ] 优先调查技术难题/plugin
