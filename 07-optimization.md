@@ -33,6 +33,7 @@
 #### ■CDN
 
 #### ■SEO
+https://docs.google.com/presentation/d/1g63V_E_SoGr6tak_GJGsVTeYFHkFaJi043cID3XMiIU/edit?usp=sharing
 
 **[⬆Top](#table-of-contents)**
 
@@ -40,16 +41,5 @@
 ## 测试代码
 #### ■参照
 https://github.com/monstarlab-chengdu-product-factory/front-end-wiki/blob/master/03-test-pyramid.md
-
-
-
-<a name="conscious"></a>
-## 意识
-#### ■考虑文字实际内容和设计图内容显示样式的差异
-
-+ 换行
-+ 掉1个字
-+ ellipsis
-+ 语言
 
 **[⬆Top](#table-of-contents)**
