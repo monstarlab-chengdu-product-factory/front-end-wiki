@@ -5,8 +5,7 @@
 ## 目录
 
   1. [优化 should](#optimization)
-  1. [测试代码 may](#autoTest)
-  1. [意识 may](#conscious)
+  1. [测试代码 should](#autoTest)
 
 
 <a name="optimization"></a>
