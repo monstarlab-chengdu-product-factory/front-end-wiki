@@ -1,4 +1,4 @@
-regulation vision：20190227
+regulation (vision: 20190227)
 ===========================
 该文件作为Monstar-lab前端小组统一规范
 
