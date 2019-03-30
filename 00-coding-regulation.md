@@ -5,10 +5,10 @@ regulation (vision: 20190227)
 ****
 
 ## 目录
-* [css]Css rules(#css rules)
-* [JavaScript]Javascript rules
-* [HTML]Html rules
-* [JSX]JSX rules
+* [Css](#css 规则：)
+* [JavaScript](#JavaScript 规则：)
+* [HTML](#HTML 规则：)
+* [JSX](#JSX 规则：)
 
 css 规则：
 ------
@@ -26,6 +26,7 @@ css 规则：
 - 保证每行语句都是多行
 - 当前选择器的@extentd和@include放在每个规则前面
 - 保持规范的缩进
+
 
 JavaScript 规则：
 ------
@@ -53,6 +54,7 @@ if (user) {
 // comment
 ```
 
+
 HTML 规则：
 ------
 - 文件首行以<!DOCTYPE …>定格开始
@@ -64,6 +66,7 @@ HTML 规则：
 - 每个元素都添加关闭标签
 - img标签必须要alt属性
 - HTML属性使用双引号
+
 
 JSX 规则：
 ------
