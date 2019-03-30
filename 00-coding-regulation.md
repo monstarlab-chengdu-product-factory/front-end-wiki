@@ -5,12 +5,12 @@ regulation (vision: 20190227)
 ****
 
 ## 目录
-* [Css](#css)
-* [JavaScript](#JavaScript)
-* [HTML](#HTML)
-* [JSX](#JSX)
+* [Css](#css规则)
+* [JavaScript](#JavaScript规则)
+* [HTML](#HTML规则)
+* [JSX](#JSX规则)
 
-css 规则：
+css 规则
 ------
 - css 每个选择器之间严格空一行，规则内部不能空行
 - 每一条规则的第一个{前面加空格，结尾}单独一行
@@ -28,7 +28,7 @@ css 规则：
 - 保持规范的缩进
 
 
-JavaScript 规则：
+JavaScript 规则
 ------
 - 变量不能用保留字
 - 常量大写
@@ -55,7 +55,7 @@ if (user) {
 ```
 
 
-HTML 规则：
+HTML 规则
 ------
 - 文件首行以<!DOCTYPE …>定格开始
 - 文件以小写字母开头和命名，以减号连接
@@ -68,7 +68,7 @@ HTML 规则：
 - HTML属性使用双引号
 
 
-JSX 规则：
+JSX 规则
 ------
 - 多个属性，多行书写，每个属性占用一行，标签结束另起一行
 ```javascript
