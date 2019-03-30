@@ -5,10 +5,10 @@ regulation (vision: 20190227)
 ****
 
 ## 目录
-* [Css](#css 规则：)
-* [JavaScript](#JavaScript 规则：)
-* [HTML](#HTML 规则：)
-* [JSX](#JSX 规则：)
+* [Css](#css)
+* [JavaScript](#JavaScript)
+* [HTML](#HTML)
+* [JSX](#JSX)
 
 css 规则：
 ------
