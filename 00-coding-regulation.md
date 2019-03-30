@@ -5,12 +5,12 @@ regulation vision：20190227
 ****
 
 ## 目录
-* Css rules
-* Javascript rules
-* Html rules
-* JSX rules
+* [css]Css rules(#css rules)
+* [JavaScript]Javascript rules
+* [HTML]Html rules
+* [JSX]JSX rules
 
-style rules：
+css 规则：
 ------
 ### css 每个选择器之间严格空一行，规则内部不能空行
 ### 每一条规则的第一个{前面加空格，结尾}单独一行
@@ -27,7 +27,7 @@ style rules：
 ### 当前选择器的@extentd和@include放在每个规则前面
 ### 保持规范的缩进
 
-JavaScript rules：
+JavaScript 规则：
 ------
 ### 变量不能用保留字
 ### 常量大写
@@ -53,7 +53,7 @@ if (user) {
 // comment
 ```
 
-HTML rules:
+HTML 规则：
 ------
 ### 文件首行以<!DOCTYPE …>定格开始
 ### 文件以小写字母开头和命名，以减号连接
@@ -65,7 +65,7 @@ HTML rules:
 ### img标签必须要alt属性
 ### HTML属性使用双引号
 
-JSX rules:
+JSX 规则：
 ------
 ### 多个属性，多行书写，每个属性占用一行，标签结束另起一行
 ```javascript
