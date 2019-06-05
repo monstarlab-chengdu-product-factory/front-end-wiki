@@ -1,4 +1,4 @@
-regulation (vision: 20190227)
+regulation (vision: 20190605)
 ===========================
 该文件作为Monstar-lab前端小组统一规范
 
@@ -9,6 +9,7 @@ regulation (vision: 20190227)
 * [JavaScript](#JavaScript规则)
 * [HTML](#HTML规则)
 * [JSX](#JSX规则)
+* [页面完成的标准](#页面完成条件)
 
 css规则
 ------
@@ -116,3 +117,12 @@ render () {
 ```javascript
 <Hello personal />
 ```
+
+
+页面完成条件
+------
+- 自测没有bug，或者按照测试用例测试通过
+- 需要在不同浏览器上面测试通过
+- 手机端不能有 hover 效果
+- PC端 button、链接需要有 hover 效果
+- 代码严格遵循了规范
