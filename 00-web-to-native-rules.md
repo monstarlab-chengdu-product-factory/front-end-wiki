@@ -1,4 +1,4 @@
-Web To Native Rules (vision: 20190611)
+Web To Native Rules (vision: 20190613)
 ===========================
 该文件作为前端跟native端共同讨论后的版本
 
