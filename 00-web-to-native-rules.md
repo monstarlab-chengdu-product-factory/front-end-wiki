@@ -43,7 +43,7 @@ window.webkit.messageHandlers.自定义函数名.postMessage(JSON.stringify(para
 ```
 - 调用Android方式：
 ```
-window.Android端定义的域名称.自定义函数名(JSON.stringify(params));
+window.messageHandlers.自定义函数名(JSON.stringify(params));
 ```
 
 nativeToWeb
@@ -67,7 +67,7 @@ function callbackFnName(returnVal) {
 - 调用Android并获取返回值：
 调用Android就直接可以获取到返回值
 ```
-var returnVal = window.twopmAndroid.自定义函数名();
+var returnVal = window.messageHandlers.自定义函数名();
 console.lot('native返回值': returnVal);
 ```
 
