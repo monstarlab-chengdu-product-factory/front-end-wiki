@@ -56,11 +56,11 @@ webToNativeAndCallback
 - 调用iOS获取返回值方式：
 首先告诉native开始调用
 ```
-window.webkit.messageHandlers.自定义函数名.postMessage('');
+window.webkit.messageHandlers.自定义函数名.postMessage(JSON.stringify({callback: callbackFnName}));
 ```
 然后native再去调用js全局函数
 ```
-function 自定义函数名(returnVal) {
+function callbackFnName(returnVal) {
 	console.lot('native返回值': returnVal);
 }
 ```
