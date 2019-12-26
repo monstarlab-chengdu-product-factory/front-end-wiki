@@ -19,5 +19,8 @@
 * API
 * Plugins
 * Browser Support
-* 运行环境配置
+* 运行环境配置   
 Android 4.0+  IOS 7.0+  IE 9.0+
+
+## 编写时间
+第一次发布stg需要将此文件补全
